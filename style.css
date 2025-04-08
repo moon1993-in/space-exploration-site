@@ -1,0 +1,37 @@
+body{
+   background-image: url(images/giphy.gif);
+   background-size: cover;
+    color: snow;
+    text-align: center;
+     font-family: "Orbitron", sans-serif; 
+    /* font-family: "Orbit"; */
+} 
+/* #hero {
+    background-image: url(images/giphy.gif);
+    background-size:cover;
+    padding: 10px 0 40px 0;
+} */
+
+.btn{
+    padding: 6px 12px;
+    color: #8047d8;
+    border: none;
+    font-family: inherit;
+    background: snow;
+    
+}
+/* @font-face {
+    font-family:"Orbit";
+    src: url(./Resources/ORBIT\ PERSONAL\ USE.ttf);
+} */
+.underline{
+    border-bottom: 4px solid #8047d8;
+}
+#logo{
+    width: 100px;
+    /* border: 2px solid purple;
+    border-radius: 50%; */
+}
+h3{
+    color: #8047d8;
+}
